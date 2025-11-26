@@ -1,4 +1,4 @@
-## Hi there 👋
+## Luiz Eleuterio 💻
 
 <!--
 **LuiE13/LuiE13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Tecnico em desenvolvimento de sistemas pela Etec Uirapuru
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiE13&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiE13&theme=react)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiE13&theme=react) 
